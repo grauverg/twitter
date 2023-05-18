@@ -1,7 +1,7 @@
 django==4.2
-djangorestframework
+djangorestframework~=3.14.0
 django-cors-headers
 drf-yasg
 Pillow
-psycopg
+psycopg2
 django-environ
